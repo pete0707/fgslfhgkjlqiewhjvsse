@@ -11,7 +11,7 @@ h1 {
     /* Center horizontally*/
     margin: 0 auto;
     width: 800px;
-    /*background-color: pink;*/
+    background-color: pink;
 }
 
 p {
