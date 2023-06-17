@@ -1,8 +1,23 @@
+
 h1 {
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
-    color: "000011"
+    color: "000011";
+    font-family: sans-serif, serif;
 }
+
+.container {
+    font-size: 18px;
+    /* Center horizontally*/
+    margin: 0 auto;
+    width: 800px;
+    /*background-color: pink;*/
+}
+
+p {
+    font-family: sans-serif, serif;
+}
+
 
 hr.style-four {
     height: 12px;
